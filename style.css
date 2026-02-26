@@ -28,7 +28,7 @@
 }
 
 /* 2. Navigation Bar */
-.nav {
+nav {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,7 +36,7 @@
     border-bottom: 1px solid #eee;
 }
 
-.nav a {
+nav a {
     text-decoration: none;
     color: #888;
     margin: 0 20px;
