@@ -18,7 +18,7 @@
 }
 
 .hero h1 {
-    font-size: 4px;
+    font-size: 40px;
     letter-spacing: 10px;
     border-top: 2px solid white;
     border-bottom: 2px solid white;
@@ -57,7 +57,7 @@ nav a {
 }
 
 .content h2 {
-    font-size: 2px;
+    font-size: 20px;
     margin-bottom: 20px;
 }
 
@@ -76,13 +76,13 @@ nav a {
 }
 
 .item .content {
-    font-size: 2px;
+    font-size: 50px;
     display: block;
     margin-bottom: 15px;
 }
 
 .item p {
-    font-size: 0.7px;
+    font-size: 30px;
     letter-spacing: 2px;
     font-weight: bold;
 }
