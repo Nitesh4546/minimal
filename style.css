@@ -58,7 +58,7 @@ nav a {
 }
 
 .content h2 {
-    font-size: 2rem;
+    font-size: 2px;
     margin-bottom: 20px;
 }
 
@@ -76,7 +76,7 @@ nav a {
     gap: 80px;
 }
 
-.item .cont {
+.item .content {
     font-size: 2px;
     display: block;
     margin-bottom: 15px;
